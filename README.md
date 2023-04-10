@@ -2,8 +2,8 @@
 
 ## We have Two Resources:
 
-Posts - CRUD operations on posts
-Comments - CRUD operations on comments
+- Posts - CRUD operations on posts
+- Comments - CRUD operations on comments
 
 - Use versions for your REST API
 - Handle partial update on posts
